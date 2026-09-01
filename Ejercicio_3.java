@@ -10,7 +10,7 @@ public class Ejercicio_3 {
     System.out.println("n\t|   n * 10\t|   n * 100\t|   n * 1000");
 
     // Imprimimos división de los encabezados de la tabla
-    System.out.println("-------------------------------------------------");
+    System.out.println("------------------------------------------------------");
 
     // Iteramos 5 veces por cada línea de la tabla
     for (int n = 1; n <= 5; n++) {
