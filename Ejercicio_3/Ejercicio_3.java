@@ -1,8 +1,5 @@
 // Programa que imprime los múltiplos por 10, 100 y 1000 de los primeros 5 números enteros
 
-// Línea necesaria ya que el archivo se encuentra en un subdirectorio
-package Práctica_2;
-
 public class Ejercicio_3 {
 
   public static void main(String[] args) {

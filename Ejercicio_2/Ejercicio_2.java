@@ -1,8 +1,5 @@
 // Programa que en el que de una serie de 10 enteros ingresados por el usuario, se determina el mayor
 
-// Línea necesaria ya que el archivo se encuentra en un subdirectorio
-package Práctica_2;
-
 // Importes
 import java.util.Scanner;
 
